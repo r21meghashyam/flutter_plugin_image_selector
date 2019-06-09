@@ -1,6 +1,6 @@
 name: image_selector
-description: A new Flutter package project.
-version: 0.0.1
+description: A flutter plugin to select image from gallery and allows user to crop or resize it before submitting.
+version: 0.1.0
 author: Meghashyam Bhandary <r21meghashyam@gmail.com>
 homepage: "https://megh.tk"
 

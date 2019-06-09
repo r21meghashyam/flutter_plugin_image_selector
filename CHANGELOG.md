@@ -1,3 +1,4 @@
-## [0.0.1] - TODO: Add release date.
-
-* TODO: Describe initial release.
+## [0.0.1] - First release
+## [0.0.2] - Added package name to readme.md
+## [0.1.0] - First Major release
+    - Added Example
